@@ -1,0 +1,102 @@
+<!-- partners start -->
+<section class=" pos-rel section-bg-dark-1">
+  <!-- lines-container start -->
+  <div class="lines-container pos-rel no-lines flex-min-height-100vh">
+    <!-- container start -->
+    <div class="padding-top-bottom-120 container">
+      <!-- title start -->
+      <h2 class="headline-l text-center hidden-box js-scrollanim">
+        <span class="anim-slide">Our Partners</span>
+      </h2><!-- title end -->
+
+      <!-- padding-top-30 start -->
+      <div class="padding-top-30">
+        <!-- flex-container start -->
+        <div class="flex-container flex-justify-center">
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/am.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/am-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/arm.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/arm-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/carclub.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/carclub-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+        </div><!-- flex-container end -->
+
+        <!-- flex-container start -->
+        <div class="flex-container flex-justify-center">
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/cnn.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/cnn-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/cpg.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/cpg-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/royal intl.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/royal intl-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/edu-wings.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/edu-wings-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/find-the-one.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/find-the-one-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/lancaster.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/lancaster-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+
+          <!-- column start -->
+          <div class="three-columns padding-top-60">
+            <div class="text-center hover-box pos-rel">
+              <img class="client-logo client-hover-out" src="assets/images/clients/soura.png" alt="clients logo">
+              <img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/soura-red.png" alt="clients logo">
+            </div>
+          </div><!-- column end -->
+        </div><!-- flex-container end -->
+      </div><!-- padding-top-30 end -->
+    </div><!-- container end -->
+  </div><!-- lines-container end -->
+</section><!-- partners end -->
