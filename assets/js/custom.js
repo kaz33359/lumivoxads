@@ -8,6 +8,6 @@ function contact() {
 
   // alert(contact);
 
-  let url = `https://wa.me/919746583440?text=${contact}`;
+  let url = `https://wa.me/917012881387?text=${contact}`;
   window.open(url);
 }
